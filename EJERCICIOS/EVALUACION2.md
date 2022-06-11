@@ -5,20 +5,39 @@ Ejercicio:
 
 1. Menciona los comandos DMl: (valor .85)
 
+* SELECT: Encargado de consultar registros de una Base de Datos.
+* INSERT: Encargado de cargar lotes de Datos en una única operación.
+* UPDATE: Encargado de modificar los valores de los campos y registros especificados.
+* DELETE: Encargado de eliminar registros de una tabla.
+
 2. Menciona 3 tipos de datos que existen: (valor .85)
 
+* Numericos (enteros y reales).
+* Texto (caracter).
+* Logicos (boleanos).
 
 3. ¿Qué diferencia existe entre TRUNCATE y DELETE?(valor .85)
 
+* DELETE; elimina de fila en dila los datos de una Tabla.
+* TRUNCATE; elimina todos los datos de una Tabla.
+* DROP; elimina la estructura de la tabla incluyendo los datos.
+
 4. ¿Para qué se utiliza el atributo UNIQUE?(valor .85)
+
+* La restricción UNIQUE asegura que todos los valores en una columna sean diferentes.
 
 5. ¿Qué diferencia hay entre los tipos de datos VARCHAR y CHAR? (valor .85)
 
+* Cuando se declara un tipo CHAR el campo se crea con una longitud fija máximo 255 bytes.
+* Cuando se declara un VARCHAR idicamos que sera de una longitud variable de máximo 65.535 bytes 
 
 6. Defina brevemente el significado de las siglas SQL(valor .85)
 
+* SQL (Structured Query Language) Lenguaje de Consulta Estructurado.
 
 7. Defina brevemente qué es MySQL WorkBench (valor .85)
+
+* Herramienta visual de diseño de Bases de Datos, permite modelar, gestionar y generar Bases de Datos de manera visual o grafica.
 
 ## Práctica 5.
 ### Gestores de base de datos
