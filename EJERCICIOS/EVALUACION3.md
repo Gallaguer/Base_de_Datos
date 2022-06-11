@@ -9,9 +9,16 @@ Ejercicio:
 
 1. ¿Qué es un DataWarehouse?(valor 2)
 
+* Es iun sistema que agrega y combina información de diferentes fuentes en un almacén de datos único y centralizado.
+
 2. Realiza un diseño del modelo en estrella (valor 2)
 
+![image](https://user-images.githubusercontent.com/104698348/173206361-105b684a-4eb1-43a2-a7d4-f98ce622ad56.png)
+
+
 3. Realiza un diseño del modelo copo de nieve (valor 2)
+
+![image](https://user-images.githubusercontent.com/104698348/173206564-f9a5b6b6-9f6d-461e-b484-a67f70b7b1d3.png)
 
 
 ## Práctica 7
@@ -22,6 +29,9 @@ Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
 
+USE productos;
+SELECT * FROM productos
+WHERE 
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
 también debe incluir los fabricantes que no tienen ningún producto. El resultado
