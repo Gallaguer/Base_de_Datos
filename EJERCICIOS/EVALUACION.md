@@ -78,7 +78,8 @@ constan de un título y una extensión.
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
 
-![image](https://user-images.githubusercontent.com/104698348/173246363-5c0a00d0-8d7c-46cc-af7f-636e45fb270d.png)
+![image](https://user-images.githubusercontent.com/104698348/173252144-5e8ec7bd-5c64-4db4-a644-a6068dc88f10.png)
+
 
 
 
