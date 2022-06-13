@@ -29,9 +29,8 @@ Ejercicio:
 
 1. Calcula el número total de productos que hay en la tabla productos. (valor 4.5)
 
-USE productos;
-SELECT * FROM productos
-WHERE 
+![image](https://user-images.githubusercontent.com/104698348/173259474-6e16531b-b755-4b13-aa65-d8cba1cb430a.png)
+
 
 2. Muestra el número total de productos que tiene cada uno de los fabricantes. El listado
 también debe incluir los fabricantes que no tienen ningún producto. El resultado
