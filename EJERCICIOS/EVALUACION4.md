@@ -41,6 +41,9 @@ Una vez creada la tabla escriba dos triggers con las siguientes características
   
   o Se ingresa la leyenda 'se modifico un regisstro'
   
+  ![image](https://user-images.githubusercontent.com/104698348/173267492-49ceebd5-4c4a-45c5-8608-4988b40eedbc.png)
+
+  
 Una vez creados los triggers escribe varias sentencias de inserción y actualización
 sobre la tabla alumnos y verifica que los triggers se están ejecutando
 correctamente.
